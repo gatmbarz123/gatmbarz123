@@ -18,7 +18,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I'm a passionate <strong>DevOps Engineer</strong> with experience in building, automating, and scaling infrastructure for software development. I've worked with a variety of tools and technologies to deliver efficient and reliable solutions.  
+  I am a beginner <strong>DevOps Engineer</strong> working with tools related to the Devops world. I worked with a variety of tools and technologies in order to provide effective and reliable solutions for projects.  
 </p>
 
 <p>
