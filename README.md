@@ -47,3 +47,20 @@
   <li>Email: <a href="mailto:bar30301@gmail.com">bar30301@gmail.com</a></li>
 </ul>
 
+---
+## 💼 Featured Projects
+
+<ul>
+  <li><strong>Project A</strong>: A Kubernetes deployment tool for managing clusters. Technologies used: Kubernetes, Terraform, AWS, Jenkins. [Link to the repo](https://github.com/gatmbarz123/project-a)</li>
+  <li><strong>Project B</strong>: A microservice architecture using Docker and Helm. Technologies used: Docker, Helm, Flask. [Link to the repo](https://github.com/gatmbarz123/project-b)</li>
+</ul>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gatmbarz123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatmbarz123&theme=radical" alt="GitHub Streak" />
+</p>
+---
+
