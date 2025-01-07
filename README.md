@@ -45,14 +45,15 @@
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/bar-gutman-11056231b">linkedin.com/in/bar-gutman</a></li>
   <li>Email: <a href="mailto:bar30301@gmail.com">bar30301@gmail.com</a></li>
+  <li>WebSite: <a herf="https://gatmbarz123.github.io/">gatmbarz123.github.io</li>
 </ul>
 
 ---
 ## 💼 Featured Projects
 
 <ul>
-  <li><strong>Project A</strong>: A Kubernetes deployment tool for managing clusters. Technologies used: Kubernetes, Terraform, AWS, Jenkins. [Link to the repo](https://github.com/gatmbarz123/project-a)</li>
-  <li><strong>Project B</strong>: A microservice architecture using Docker and Helm. Technologies used: Docker, Helm, Flask. [Link to the repo](https://github.com/gatmbarz123/project-b)</li>
+  <li><strong>Project A</strong>: A Kubernetes deployment tool for managing clusters. Technologies used: Kubernetes, Terraform, AWS, Jenkins. [Link to the repo](https://github.com/gatmbarz123/NetflixK8S)</li>
+  <li><strong>Project B</strong>: A cloud-based project leveraging Terraform, Ansible, AI models, and a fully integrated Telegram bot for seamless cloud operations. [Link to the repo](https://github.com/gatmbarz123/Terrafom-polybot_project)</li>
 </ul>
 
 ---
