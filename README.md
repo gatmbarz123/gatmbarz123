@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, I’m Bar Gutman , i'm a Devops Enginner .</h1>
+<h1 align="center">👋 Hola, I’m Bar Gutman, a DevOps Engineer.</h1>
 
 <p align="center">
   DevOps Engineer | Cloud Enthusiast | Open Source Contributor
@@ -11,6 +11,9 @@
   <a href="mailto:bar30301@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-bar30301%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://gatmbarz123.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-gatmbarz123.github.io-brightgreen?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
@@ -18,7 +21,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I am a beginner <strong>DevOps Engineer</strong> working with tools related to the Devops world. I worked with a variety of tools and technologies in order to provide effective and reliable solutions for projects.  
+  I am a beginner <strong>DevOps Engineer</strong> working with tools related to the DevOps world. I have worked with a variety of tools and technologies to provide effective and reliable solutions for projects.  
 </p>
 
 <p>
@@ -45,10 +48,11 @@
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/bar-gutman-11056231b">linkedin.com/in/bar-gutman</a></li>
   <li>Email: <a href="mailto:bar30301@gmail.com">bar30301@gmail.com</a></li>
-  <li>WebSite: <a herf="https://gatmbarz123.github.io/">gatmbarz123.github.io</li>
+  <li>Website: <a href="https://gatmbarz123.github.io/">gatmbarz123.github.io</a></li>
 </ul>
 
 ---
+
 ## 💼 Featured Projects
 
 <ul>
@@ -63,5 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gatmbarz123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatmbarz123&theme=radical" alt="GitHub Streak" />
 </p>
----
-
